@@ -18,7 +18,8 @@ crash.*.log
 *.key
 id_rsa
 id_rsa.pub
-*.pub
+/terra-key-ec2
+/terra-key-ec2.pub
 
 # Override files
 override.tf
